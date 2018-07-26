@@ -105,7 +105,11 @@ body {
     width: 100%;
     padding: 20px;
 }
-
+.img4 {
+    background-image: url("images/umbcub.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
 /* Profile photo */
 .profile-photo {
     background-image: url("images/Manu.png");
